@@ -24,9 +24,13 @@ I'm a student developer passionate about building full-stack web applications wi
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Java-blueviolet?style=for-the-badge)
 
-- 🧩 Solving DSA problems in **Java** — arrays, strings, recursion, linked lists, trees, and sorting/searching algorithms
-- 📈 Practicing on platforms like LeetCode / GeeksforGeeks / HackerRank *(add your profile links below)*
-- 🎯 Currently focused on strengthening problem-solving speed and time complexity analysis
+I believe strong fundamentals in Data Structures & Algorithms are the backbone of good software engineering, so I dedicate consistent time to solving problems and understanding the "why" behind every solution — not just memorizing patterns.
+
+- 🧩 **Core topics I've covered:** Arrays, Strings, Recursion & Backtracking, Linked Lists (singly & doubly), Trees (Binary Trees, BSTs), Stacks & Queues, and Sorting/Searching algorithms (Merge Sort, Quick Sort, Binary Search)
+- ☕ **Language of choice:** Java — I like its strict typing and OOP structure, which helps me write cleaner, more predictable solutions
+- 📈 **Where I practice:** Actively solving problems on [LeetCode](https://leetcode.com/u/gangaramyadav7/) and [HackerRank](https://www.hackerrank.com/profile/gangaramyadav)
+- 🎯 **Current focus:** Moving from "getting it to work" to "getting it optimal" — analyzing time and space complexity for every solution and revisiting brute-force answers to find better approaches
+- 🔁 **How I practice:** Regular problem-solving sessions, revisiting solved problems after a few days to reinforce patterns, and tracking progress consistently rather than in bursts
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gangaramyadav7/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gangaramyadav)
@@ -40,7 +44,6 @@ I'm a student developer passionate about building full-stack web applications wi
 ## 🔥 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryadav7&layout=compact&theme=radical&langs_count=8)
-
 
 ---
 
