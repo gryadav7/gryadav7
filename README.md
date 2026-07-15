@@ -1,12 +1,12 @@
-# Hello, I'm gryadav7! 👋
+# Hello, I'm Gangaram Yadav! 👋
 
 ### Web Developer | Student
 
-I'm a student developer passionate about building full-stack web applications with the MERN stack, and I enjoy solving Data Structures & Algorithms problems in Java and Python. Always learning, always building.
+I'm a student developer passionate about building full-stack web applications with the MERN stack, and I enjoy solving Data Structures & Algorithms problems in Java. Always learning, always building.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangaram-yadav-6a365827b/)
 
 ## 🛠️ Tech Stack
 
@@ -19,11 +19,17 @@ I'm a student developer passionate about building full-stack web applications wi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🧠 Problem Solving
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Java%20%7C%20Python-blueviolet?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Java-blueviolet?style=for-the-badge)
+
+- 🧩 Solving DSA problems in **Java** — arrays, strings, recursion, linked lists, trees, and sorting/searching algorithms
+- 📈 Practicing on platforms like LeetCode / GeeksforGeeks / HackerRank *(add your profile links below)*
+- 🎯 Currently focused on strengthening problem-solving speed and time complexity analysis
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gangaramyadav7/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gangaramyadav)
 
 ## 📊 GitHub Stats
 
@@ -33,7 +39,9 @@ I'm a student developer passionate about building full-stack web applications wi
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryadav7&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryadav7&layout=compact&theme=radical&langs_count=8)
+
+> Note: this chart reflects your actual GitHub repo language usage automatically — the more Java projects/DSA solutions you push, the more Java will show up here.
 
 ---
 
