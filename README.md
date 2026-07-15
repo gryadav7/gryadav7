@@ -41,7 +41,6 @@ I'm a student developer passionate about building full-stack web applications wi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryadav7&layout=compact&theme=radical&langs_count=8)
 
-> Note: this chart reflects your actual GitHub repo language usage automatically — the more Java projects/DSA solutions you push, the more Java will show up here.
 
 ---
 
