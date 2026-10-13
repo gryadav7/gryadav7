@@ -1,6 +1,6 @@
 # Hello, I'm Gangaram Yadav! 👋
 
-### FULLSTACK WEB DEVELOPER | SOTWARE DEVELOPER
+### ASPIRING FULLSTACK WEB DEVELOPER | SOTWARE DEVELOPER
 
 I'm a student developer passionate about building full-stack web applications with the MERN stack, and I enjoy solving Data Structures & Algorithms problems in Java. Always learning, always building.
 
